@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sparkfun-nrf52832-breakout-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/sparkfun-nrf52832-breakout-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "haidv_library_v1")(type "KiCad")(uri "E:/GitHub/haidv-kicad-library/haidv-symbols/haidv_library_v1.kicad_sym")(options "")(descr ""))
+  (lib (name "haidv_library")(type "KiCad")(uri "E:/GitHub/haidv-kicad-library/haidv_library.kicad_sym")(options "")(descr ""))
+)
